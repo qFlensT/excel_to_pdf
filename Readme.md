@@ -6,8 +6,8 @@ Takes as argument the path to the Excel file.
 ---
 
 #### Example:
-`python main.py C:\Users\User\Documents\Some excel file.xlsx`
-         *↓         file will be created*
+`python main.py C:\Users\User\Documents\Some excel file.xlsx`  
+*↓         file will be created*  
 `C:\Users\User\Documents\Some excel file.pdf`
 
 ---
