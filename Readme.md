@@ -1,12 +1,11 @@
-#Simple Python Excel -> PDF Converter
-
+# Simple Python Excel -> PDF Converter
 >*It is supposed to be used via the context menu*
 
 Takes as argument the path to the Excel file.
 
 ---
 
-####Example:
+#### Example:
 `python main.py C:\Users\User\Documents\Some excel file.xlsx`
          *↓         file will be created*
 `C:\Users\User\Documents\Some excel file.pdf`
